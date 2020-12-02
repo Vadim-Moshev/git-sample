@@ -1,3 +1,4 @@
 hello git
  100500
 megaProgramm!
+new line
